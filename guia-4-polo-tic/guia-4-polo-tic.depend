@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625597426 source:c:\users\apunt\desktop\guia-4-polo-tic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
